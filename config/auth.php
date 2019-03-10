@@ -42,7 +42,7 @@ return [
         ],
 
         'api' => [
-            'driver' => 'passport',
+            'driver' => 'passport',  //passport　だとOAuth   token だとAuth
             'provider' => 'users',
         ],
     ],

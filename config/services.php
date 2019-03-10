@@ -23,8 +23,8 @@ return [
     ],
 
     'facebook' => [
-        'client_id'     => env('FACEBOOK_API_ID'),
-        'client_secret' => env('FACEBOOK_API_SECRET'),
+        'client_id'     => env('459243887947491'),
+        'client_secret' => env('14994a9d550e0f555877d46957007c8e'),
         'redirect'      => env('FACEBOOK_CALLBACKURL'),
     ],
 
